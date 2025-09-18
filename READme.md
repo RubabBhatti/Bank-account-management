@@ -24,7 +24,7 @@ Language: Python
 Concepts: OOP, Modular Coding, Git/GitHub
 
 ### Clone the repository:
-git clone https://github.com/<your-username>/bank-account-management.git
+git clone https://github.com/RubabBhatti/Bank-account-management.git
 cd bank-account-management
 
 ### Run the module in terminal:
